@@ -13,7 +13,7 @@ Este projeto é feito com base no desafio encontrado no site [devChallenges.io](
 Sua tarefa é criar uma página web que se assemelhe ao design fornecido.
 
 ## Visualização 
-Acesse o resultado final do desafio clicando em [Visualização Cartão de Blog Minimalista](https://dev-challenges-pagina-de-perguntas.vercel.app)
+Acesse o resultado final do desafio clicando em [Visualização Cartão de Blog Minimalista](https://dev-challenges-cartao-de-blog-minim.vercel.app)
 
 ## Tecnologias Usadas
 - Html
