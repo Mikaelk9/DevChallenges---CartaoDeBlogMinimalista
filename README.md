@@ -12,6 +12,8 @@ Este projeto é feito com base no desafio encontrado no site [devChallenges.io](
 
 Sua tarefa é criar uma página web que se assemelhe ao design fornecido.
 
+<img src="./design/Tablet_1024px.jpg" alt="Texto alternativo" width="600" />
+
 ## Visualização 
 Acesse o resultado final do desafio clicando em [Visualização Cartão de Blog Minimalista](https://dev-challenges-cartao-de-blog-minim.vercel.app)
 
